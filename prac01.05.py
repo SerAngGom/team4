@@ -1,3 +1,4 @@
+#Modificación Pere
 # Creo las variables ik y m
 
 ik = float(input('Indicame el interés nominal: '))
