@@ -1,6 +1,6 @@
+
 #PABLO MODIFICA EL TEXTO
 
-# A 
 
 curso_compañero == 1 and grado_compañero == 'videojuegos'
 
